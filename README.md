@@ -1,3 +1,3 @@
-# MPShooter
+# GASMultiplayerShooter
 
 Developed with Unreal Engine 5
